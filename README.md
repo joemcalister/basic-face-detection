@@ -1,5 +1,5 @@
 # basic-face-detection
-Basic face detection using C++ and OpenCV 3.0.
+Basic face detection using C++ and OpenCV 3.0, faces are detected and their coordinates are printed to console.
 
 ## How to compile
 You must have OpenCV 3.0 installed, easiest to use CMake to compile.
